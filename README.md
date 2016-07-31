@@ -1,0 +1,2 @@
+# Optimal-Boxes
+The boxes program reads in one integer which represents how many boxes there are. Each box has a length, width, and a height as inputs. Repeat this step for how  many boxes there are. After the boxes are input, it will print out the total amount of boxes that can be fit into each other. After it prints out the answer, it gets rid of all the boxes and can take in another integer for how many boxes there are and repeat the steps with the size. To quit the program put a negative one for the input when asked about how many boxes there are.
